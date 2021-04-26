@@ -7,7 +7,7 @@ class Plansza extends JPanel {
     public Waz waz = new Waz();
     public Jablko jablko = new Jablko();
     public Kamien kamien = new Kamien();
-    public Color kolor_planszy = new Color(1656070);
+    public Color kolor_planszy = new Color(0x194506);
     public Color kolor_glowa = new Color(0, 22, 1);
     public Color kolor_cialo = new Color(203, 237, 207);
     public int wynik = 0, koniec = 0;
